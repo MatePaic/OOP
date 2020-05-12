@@ -1,0 +1,1 @@
+{'first_name': 'luka', 'last_name': 'modric', 'height': '172', 'weight': '70', 'goals': '100', 'yellow_cards': '1', 'red_cards': '14'}
